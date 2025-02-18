@@ -15,8 +15,8 @@
 class Ttxcmetrics < Formula
   desc "TomTom's XCMetrics Client"
   homepage "https://github.com/tomtom-forks/XCMetrics/tree/tomtom-main"
-  url "https://github.com/tomtom-forks/XCMetrics/releases/download/v1.2.0/TTXCMetrics"
-  sha256 "69a4b7f9a324a72bb20b51171dc9387b1f22cc66cac07dd8c89ce7df0ec37755"
+  url "https://github.com/tomtom-forks/XCMetrics/releases/download/v1.3.0/TTXCMetrics"
+  sha256 "a76741e33dc5b77cf9104436ee51f36750ae2f91350c969a8db52db33e3a9e85"
   license "Apache 2.0"
 
   def install
